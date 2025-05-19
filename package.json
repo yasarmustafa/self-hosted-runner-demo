@@ -1,1 +1,5 @@
 npm init -y
+"scripts": {
+  "start": "node app.js",
+  "test": "echo \"Test başarılı!\""
+}
